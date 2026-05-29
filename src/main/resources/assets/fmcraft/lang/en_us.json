@@ -1,0 +1,5 @@
+{
+  "fmcraft.configuration.title": "FMCraft Configs",
+  "fmcraft.configuration.minSeconds": "Minimum seconds played to scrobble",
+  "fmcraft.configuration.minPercent": "Minimum percent of track played to scrobble"
+}
